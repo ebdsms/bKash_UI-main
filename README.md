@@ -30,9 +30,9 @@ https://github.com/abdurrakibrafi/bKash_UI/assets/86319780/c6426fd0-00f4-48fe-a0
 If you face any problem using this library then feel free to contact me.
 To contact me message me on Facebook or email me at:
 
-`Email`: info@ebdsms.com
+`Email`: rbmjltd@gmail.com
 
 `Facebook`: <a href="https://www.facebook.com/M220719" rel="nofollow">Shohag Hossain</a> 
 
 # Authors
-<a href="https://www.ebdsms.com" rel="nofollow">eBDSMS.com</a>
+<a href="https://www.rbmjltd.com" rel="nofollow">RBMJ Limited</a>
